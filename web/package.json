@@ -21,7 +21,7 @@
     "normalize.css": "8.0.1",
     "nuxt": "2.6.2",
     "sanity-blocks-vue-component": "0.1.0",
-    "vue-date-fns": "1.0.0"
+    "vue-date-fns": "1.1.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "0.0.1",
