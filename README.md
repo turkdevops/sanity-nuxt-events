@@ -1,4 +1,5 @@
 # Events with Nuxt.js
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc2beb60-6e64-48b1-a40d-c5be3bf14ef8/deploy-status)](https://app.netlify.com/sites/sanity-nuxt-events-web-r1643nwi/deploys)
 
 _Data-driven conference website in Vue.js. Speakers, sessions, and scheduling._
 
