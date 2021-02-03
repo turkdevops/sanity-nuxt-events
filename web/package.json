@@ -14,10 +14,10 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "3.3.5",
-    "@sanity/client": "2.1.4",
+    "@sanity/client": "2.2.6",
     "@sanity/image-url": "0.140.20",
     "cross-env": "7.0.3",
-    "groq": "2.1.4",
+    "groq": "2.2.6",
     "normalize.css": "8.0.1",
     "nuxt": "2.14.12",
     "sanity-blocks-vue-component": "0.1.0",
