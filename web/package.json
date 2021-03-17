@@ -19,7 +19,7 @@
     "cross-env": "7.0.3",
     "groq": "2.2.6",
     "normalize.css": "8.0.1",
-    "nuxt": "2.15.1",
+    "nuxt": "2.15.2",
     "sanity-blocks-vue-component": "0.1.0",
     "vue-date-fns": "2.0.1"
   },
