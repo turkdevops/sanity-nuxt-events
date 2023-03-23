@@ -30,7 +30,7 @@
     "sanity-plugin-dashboard-widget-netlify": "1.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "eslint": "7.18.0",
     "eslint-config-standard": "16.0.2",
     "eslint-config-standard-react": "11.0.1",
